@@ -1,0 +1,19 @@
+{
+  "name": "single-click-open",
+  "main": "./lib/single-click-open.js",
+  "version": "0.0.0",
+  "description": "Open files with single click again!",
+  "keywords": [
+    "single",
+    "click",
+    "single-click",
+    "pending"
+  ],
+  "repository": "https://github.com/atom/single-click-open",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
