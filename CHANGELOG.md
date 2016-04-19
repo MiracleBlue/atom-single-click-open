@@ -1,3 +1,6 @@
+## 0.2.1
+* Fix #1
+
 ## 0.2.0
 * Add settings to select which parts should be fixed.
 * Add setting to focus the editor upon opening a file.
