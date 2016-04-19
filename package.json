@@ -9,7 +9,7 @@
     "single-click",
     "pending"
   ],
-  "repository": "https://github.com/atom/single-click-open",
+  "repository": "https://github.com/olmokramer/atom-single-click-open",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
