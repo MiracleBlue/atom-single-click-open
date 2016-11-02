@@ -1,3 +1,6 @@
+## 0.2.2
+* Fix #4 - thanks @bjmiller for the dispose method patch!
+
 ## 0.2.1
 * Fix #1
 
